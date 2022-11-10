@@ -13,4 +13,4 @@ Reshma Vijay Jawale	- A0236581B
 Vaibhav Dasarahalli Ashoka - A0237560E
 
 ## Scraped Data available in drive link:
-https://drive.google.com/file/d/141XSA_Oyqroa2vWQB_MJNcp3UDQt5wB1/view?usp=share_link
+https://drive.google.com/drive/folders/14jPF1AtJYjOmOO7SDiJBH3bJqhz59Qym?usp=share_link
