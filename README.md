@@ -1,9 +1,13 @@
-# Use-historical-data-and-twitter-to-predict-crypto-price-movements
+# CrytoCast 
 
-# Problem Description 
-Machine learning research has employed several techniques in recent years to try and forecast the prices of cryptocurrencies. However, this task of predicting the prices themselves can be quite challenging due to the volatile nature of these assets. Thus, to create a viable solution, we aim to solve a simpler problem by looking to forecast only the direction of the movement of the cryptocurrency asset (coin) using historical pricing data. Moreover, with evidence of news as well as public forums having influenced their prices in the recent years, we believe that it would be interesting to bring into consideration a social media source to collect textual data to provide public sentiment which can be used for its predictive power to gain insight into how cryptocurrency prices fluctuate. In this project, our problem uses a supervised learning approach to perform a binary classification on time series data.
+## Problem Statement: 
+USE HISTORICAL PRICE AND SOCIAL MEDIA DATA TO PREDICT CRYPTO PRICE MOVEMENTS
 
-# Hypothesis
-Previous prices and social media forums influence cryptocurrency prices.
+## Introduction: 
+The market for cryptocurrencies has exploded in recent years increasing the number of investors due to its substantial profit. The high fluctuation rate of these cryptocurrencies is also confusing many investors. The worth of a cryptocurrency unit climbs over the course of a week, but the price also of decreases over the same time. These events make it crucial to consider whether we can assist investors in lowering the level of uncertainty in their investing choices. This topic becomes even more difficult when we realize that these changes depend not only on historical pricing but also on other variables, including how society feels about cryptocurrencies. These days, this information is widely accessible thanks to the development of social media. Hence in this project, we take some steps by leveraging this information from online social network platforms to forecast the direction of the movement of the cryptocurrency asset (coin) using historical pricing data.
 
-Financial metrics as well as public sentiment can act as relevant predictors to price movement.
+## Team Members
+Lakshmi Sai Priyanka Boddapati - A0248313J
+Shubhankar Agrawal - A0248330L
+Reshma Vijay Jawale	- A0236581B
+Vaibhav Dasarahalli Ashoka - A0237560E
